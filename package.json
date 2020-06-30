@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/ruwaid-401-advanced-javascript/reactdeplytest/issues"
   },
-  "homepage": "https://ruwaid-401-advanced-javascript.github.io/reactdeplytest/",
+  "homepage": "/",
   "dependencies": {
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
