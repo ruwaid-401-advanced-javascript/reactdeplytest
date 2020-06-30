@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reactdeplytest/static/css/main.deb73a8a.chunk.css",
-    "main.js": "/reactdeplytest/static/js/main.23860b7d.chunk.js",
-    "main.js.map": "/reactdeplytest/static/js/main.23860b7d.chunk.js.map",
+    "main.js": "/reactdeplytest/static/js/main.273ca987.chunk.js",
+    "main.js.map": "/reactdeplytest/static/js/main.273ca987.chunk.js.map",
     "runtime-main.js": "/reactdeplytest/static/js/runtime-main.b23aa541.js",
     "runtime-main.js.map": "/reactdeplytest/static/js/runtime-main.b23aa541.js.map",
     "static/js/2.ffbf77b1.chunk.js": "/reactdeplytest/static/js/2.ffbf77b1.chunk.js",
     "static/js/2.ffbf77b1.chunk.js.map": "/reactdeplytest/static/js/2.ffbf77b1.chunk.js.map",
     "index.html": "/reactdeplytest/index.html",
-    "precache-manifest.a0073e3d99440c36c119b26a603ab915.js": "/reactdeplytest/precache-manifest.a0073e3d99440c36c119b26a603ab915.js",
+    "precache-manifest.075ac42c54ab50bc685d5e32e51d70a0.js": "/reactdeplytest/precache-manifest.075ac42c54ab50bc685d5e32e51d70a0.js",
     "service-worker.js": "/reactdeplytest/service-worker.js",
     "static/css/main.deb73a8a.chunk.css.map": "/reactdeplytest/static/css/main.deb73a8a.chunk.css.map",
     "static/js/2.ffbf77b1.chunk.js.LICENSE.txt": "/reactdeplytest/static/js/2.ffbf77b1.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b23aa541.js",
     "static/js/2.ffbf77b1.chunk.js",
     "static/css/main.deb73a8a.chunk.css",
-    "static/js/main.23860b7d.chunk.js"
+    "static/js/main.273ca987.chunk.js"
   ]
 }
